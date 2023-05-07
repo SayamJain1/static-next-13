@@ -2,7 +2,6 @@ import React from "react";
 import heroStyles from "@/app/styles/HeroSection.module.css";
 import styles from "@/app/styles/common.module.css";
 import Link from "next/link";
-import { Poppins } from "next/font/google";
 import Image from "next/image";
 
 export default function HeroSection({title, image}) {

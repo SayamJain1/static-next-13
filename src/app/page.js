@@ -5,7 +5,7 @@ import HeroSection from "./components/HeroSection";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <HeroSection title="lets watch moview together" image="/next.svg" />
+      <HeroSection title="lets shop together" image="/next.svg" />
     </main>
   );
 }
